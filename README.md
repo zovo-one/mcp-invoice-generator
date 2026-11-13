@@ -316,3 +316,10 @@ Connect the hosted endpoint https://mcp.zovo.one/mcp/invoice (copy the tokenized
 Any MCP client (Claude, Cursor, Windsurf, VS Code) can read this repository's documentation directly via GitMCP — no install:
 
 - Docs MCP URL: https://gitmcp.io/theluckystrike/mcp-invoice
+
+
+## Get it running in 60 seconds
+
+Add the hosted endpoint to Claude, Cursor or any MCP client - free tier, no signup: `https://mcp.zovo.one/mcp/invoice-generator`
+See the full tool list and worked examples: [mcpstamp.com/servers/invoice-generator](https://www.mcpstamp.com/servers/invoice-generator/)
+Unlimited calls + priority support: [$39 lifetime](https://mcp.zovo.one/buy/bundle)
